@@ -1,2 +1,2 @@
-# Arduino basics library
+# arduino basics library
 
